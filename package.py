@@ -3,10 +3,9 @@
 #!/usr/bin/python 
 
 '''
-文件夹结构 --zip
-            animate
-            unzip.py
-            release
+文件夹结构 --           
+-equip
+-package.py
 '''
 
 import os, sys, zipfile
